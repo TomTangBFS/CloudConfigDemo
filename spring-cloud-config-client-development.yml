@@ -7,4 +7,4 @@ user:
   gender: female
   
 conflict:
-  property: github-older-version
+  property: github-version
