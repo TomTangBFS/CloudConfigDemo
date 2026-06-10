@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: spring-cloud-config-client
+    
+user:
+  role: tester1
+  gender: female
+  
+conflict:
+  property: github-even-even-newer-version
